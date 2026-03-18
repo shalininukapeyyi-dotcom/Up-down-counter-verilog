@@ -1,7 +1,7 @@
-# 🔄 4-bit Up-Down Counter (Verilog)
+# 🔄 4-bit up-Down Counter (Verilog)
 
 ## 📌 Overview
-This project implements a *4-bit Up-Down Counter* using Verilog HDL.  
+This project implements a *4-bit up-Down Counter* using Verilog HDL.  
 The counter can increment or decrement based on a control signal and includes reset functionality.
 
 ---
